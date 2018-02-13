@@ -10,6 +10,7 @@ html {
 .is-validated input[type="checkbox"]:invalid + label::before {
   border-color: #f33;
 }
+
 .error-message {
   display: none;
   background: #fee;
